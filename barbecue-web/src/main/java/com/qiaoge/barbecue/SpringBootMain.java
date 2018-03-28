@@ -12,4 +12,5 @@ public class SpringBootMain {
 	public static void main(String[] args) throws Exception {
 		SpringApplication.run(SpringBootMain.class, args);
 	}
+	
 }
